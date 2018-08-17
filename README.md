@@ -1,14 +1,16 @@
-# criptografia
-
-CRIPTOGRAFIA RSA
+# CRIPTOGRAFIA RSA
 Aluno: Icaro Henrique Vieira Pinheiro
+
 Matricula: 2018046556
+
 DOCUMENTAÇÃO
+
  Instruções
 Para compilar: gcc trabalhopratico.c –Wall –lm –o exec
 Para executar: ./exec
 Não devem ser utilizados números primos pequenos como 2,3,7...
 por comprometerem a segurança e criptografia
+
  Sumario
 Neste projeto a proposta é desenvolver uma implementação em C
 do método de criptografia RSA, a ideia principal é fornecer ao usuário uma
