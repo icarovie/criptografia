@@ -7,7 +7,9 @@ DOCUMENTAÇÃO
 
  Instruções
 Para compilar: gcc trabalhopratico.c –Wall –lm –o exec
+
 Para executar: ./exec
+
 Não devem ser utilizados números primos pequenos como 2,3,7...
 por comprometerem a segurança e criptografia
 
