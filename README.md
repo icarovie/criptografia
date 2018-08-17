@@ -26,9 +26,9 @@ mod 899 de forma otimizada.
  Descrição dos Procedimentos
 - Algoritmo de Euclides
 O algoritmo de Euclides é utilizado para encontrar a chave
-de cifragem E. Ele foi utilizado, pois é um método simplificado
+de cifragem. Um método simplificado
 para encontrar o MDC entre dois números.
-- Função para validar as entradas de números primos
+- Função para validar as entradas de números primos. 
 O método RSA é baseado na premissa que não é possível
 fatorar números primos muito grande, por isso é de extrema
 importância que os números inseridos pelo usuário sejam primos.
