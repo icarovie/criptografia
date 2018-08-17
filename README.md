@@ -18,6 +18,7 @@ extremamente grandes, como por exemplo, 651 elevado 11 visto as limitações
 das bibliotecas como math.h. A partir disso foi estabelecido estratégias
 desenvolvendo algoritmos que realizassem o cálculos como 611 elevado a 11
 mod 899 de forma otimizada.
+
  Descrição dos Procedimentos
 - Algoritmo de Euclides
 O algoritmo de Euclides é utilizado para encontrar a chave
